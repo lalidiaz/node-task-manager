@@ -17,3 +17,4 @@ API [Docs](https://documenter.getpostman.com/view/15377322/2s8Ysuxt42)
 **DELETE** => delete task -> api/v1/tasks/:id
 
 ![Screen Shot 2022-11-27 at 1 21 08 PM](https://user-images.githubusercontent.com/60779542/204129867-0150f8e8-634b-4c8d-afd3-28b1f6e6ba9e.png)
+![Screen Shot 2022-11-27 at 2 16 24 PM](https://user-images.githubusercontent.com/60779542/204129995-bbc8b37a-1789-4501-a961-fc7cd4f31c54.png)
